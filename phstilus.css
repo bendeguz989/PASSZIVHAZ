@@ -1,0 +1,37 @@
+﻿body {
+	font-size: 11pt;
+	margin: 0px;
+	padding: 0px;
+	background-image: url("bg.png");
+	color: black, #347235, #008080;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-left:10px;
+	margin-right: 10px;
+	text-align: justify;
+}
+h1, h2 {
+	color: #347235;
+
+}
+h2 {
+	font-size: 16px;
+}
+#tartalom {
+	margin: 0 px 0 px;
+	text-align: center;
+	width: 850px;
+}
+#nev{
+	font-size: 16px;
+	font-style:italic;
+	
+}
+.kep {
+	float: right;
+	margin-left: 5px;
+	border:  solid 1px black;
+}
+a {
+	color: #008080;
+}
+
